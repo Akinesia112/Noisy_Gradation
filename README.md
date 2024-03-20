@@ -1,5 +1,5 @@
 # Noisy_Gradation
-Color Gradation arrangement with noisy factor.
+Color Gradation arrangement with noisy factors.
 
 ![image](img/Offset_With_Radius.png)
 
