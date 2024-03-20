@@ -1,7 +1,7 @@
 # Noisy_Gradation
 Color Gradation arrangement with noisy factor.
 
-![image](Offset_With_Radius.png)
+![image](img/Offset_With_Radius.png)
 
 ![image](Rhombus.png)
 
